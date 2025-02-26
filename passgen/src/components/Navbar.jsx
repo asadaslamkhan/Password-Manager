@@ -2,10 +2,10 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <nav className='bg-[#282654] text-white'>
+        <nav className='bg-[#2D2B55] text-white'>
             <div className="mycontainer flex justify-between items-center px-4  py-5 h-14">
-                <div className="logo font-bold text-white flex items-center justify-center">
-                    <span className="text-green-500"></span>
+                <div className="logo font-bold text-white text-xl flex items-center justify-center">
+                    
                     Password
                     <span className="text-green-500"> Manager</span>
                 </div>
