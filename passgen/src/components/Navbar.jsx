@@ -6,7 +6,7 @@ const Navbar = () => {
             <div className="mycontainer flex justify-between items-center px-4  py-5 h-14">
                 <div className="logo font-bold text-white text-xl flex items-center justify-center">
                     
-                    PassworD
+                    Password
                     <span className="text-green-500"> Manager</span>
                 </div>
                 {/* <ul>
