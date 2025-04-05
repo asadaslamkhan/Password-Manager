@@ -13,7 +13,7 @@ const Navbar = () => {
                     <li className="flex gap-4">
                         <a className="hover:font-bold" href="#">Home</a>
                         <a className="hover:font-bold" href="#">About</a>
-                        <a className="hover:font-bold" href="#">Contact</a>
+                        <a cla
                     </li>
                 </ul> */}
                 <button className='text-white bg-green-500 my-5 rounded-2xl flex justify-center items-center'>
